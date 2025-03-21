@@ -2,7 +2,7 @@
 
 Language: Python
 
-Libraries: PyTorch, matplotlib, numpy, and pandas.
+Libraries: PyTorch, timm, matplotlib, numpy, and pandas.
 
 This program utilizes hundreds of MRI scans to train a model that sorts images into four types of tumors: glioma, meningioma, pituitary, and no tumor. This project will be presented at the STEAM @ Schoolcraft conference to show how AI is being used to advance the medical field in disease detection. 
 
