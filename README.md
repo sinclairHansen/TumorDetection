@@ -1,5 +1,7 @@
 # TumorDetection
-** For an in-depth analysis of this project --> ** [https://sinclairhansen.github.io/tumorDetection.html]
+**For an in-depth analysis of this project -->** [https://sinclairhansen.github.io/tumorDetection.html](#Tumor Detection)
+
+
 Language: Python
 
 Libraries: PyTorch, timm, matplotlib, numpy, and pandas.
