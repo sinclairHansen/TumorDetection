@@ -1,5 +1,5 @@
 # TumorDetection
-**For an in-depth analysis of this project -->** [Tumor Detection Analysis]((https://sinclairhansen.github.io/Blog/tumorDetection.html))
+**For an in-depth analysis of this project -->** [Tumor Detection Analysis](https://sinclairhansen.github.io/Blog/tumorDetection.html)
 
 
 Language: Python
